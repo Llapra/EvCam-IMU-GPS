@@ -4,7 +4,9 @@ Visor SilkyEvCam -  Lab Control
 
 Autores: Eduardo Llantén - Pablo Garrido
 
-Institucion: Pontificia Universidad Católica de Valparaíso Estado del Proyecto: v11
+Institucion: Pontificia Universidad Católica de Valparaíso 
+
+Estado del Proyecto: v11
 
 
 # Descripción
